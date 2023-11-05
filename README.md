@@ -1,5 +1,39 @@
-# Platformer
-To use this you need to install processing.js and copy the game folder into the processing folder
-Then you need to open the game folder and open the game file which should open a tab in processing. 
-Then you need to download the sound library. To do so, go to the Sketch menu, then expand the Import Library submenu, and select the Add Library option search for sound and download the one by the processing foundation.
-Once you have downloaded it you can now run the game with the run button on the top left
+# Platformer Game Setup Instructions
+
+Welcome to the Platformer game! Follow these instructions to get started.
+
+## Initial Setup
+
+Before you can run the game, you need to set up your environment:
+
+- **Install Processing.js**: Make sure you have Processing.js installed on your system. 
+- **Copy Game Folder**: Locate the `game` folder and copy it into the Processing directory on your computer.
+
+## Opening the Game
+
+To open the game:
+
+- Navigate to the `game` folder within the Processing directory.
+- Look for the `game` file and double-click it to open a new tab in the Processing application.
+
+## Sound Library Installation
+
+The game requires the sound library to play audio. Here’s how you can download it:
+
+- Go to the `Sketch` menu in Processing.
+- Choose `Import Library`, then select `Add Library`.
+- Search for `sound` and download the library provided by the Processing Foundation.
+
+## Running the Game
+
+With the sound library in place, you’re all set!
+
+- Click the `Run` button, typically found at the top-left corner of the Processing environment, to start the game.
+
+## Game Demonstration
+
+If you’d like to see the game in action before playing:
+
+- Check out this gameplay demo: [Platformer Game Demo on YouTube](https://www.youtube.com/watch?v=GY6nHimEWpA&t=1s)
+
+Enjoy the game, and happy playing!
