@@ -1,13 +1,10 @@
 # Platformer Game Setup Instructions
-
-Welcome to the Platformer game! Follow these instructions to get started.
-
 ## Initial Setup
 
 Before you can run the game, you need to set up your environment:
 
-- **Install Processing.js**: Make sure you have Processing.js installed on your system. 
-- **Copy Game Folder**: Locate the `game` folder and copy it into the Processing directory on your computer.
+- **Install Processing.js**: Make sure you have Processing.js installed on your system. https://processing.org/download
+- **Copy Game Folder**: Locate the `game` folder from the repository and copy it into the Processing directory on your computer.
 
 ## Opening the Game
 
@@ -28,7 +25,7 @@ The game requires the sound library to play audio. Here’s how you can download
 
 With the sound library in place, you’re all set!
 
-- Click the `Run` button, typically found at the top-left corner of the Processing environment, to start the game.
+- Click the `Run` button, found at the top-left corner of the Processing environment, to start the game.
 
 ## Game Demonstration
 
@@ -36,4 +33,4 @@ If you’d like to see the game in action before playing:
 
 - Check out this gameplay demo: [Platformer Game Demo on YouTube](https://www.youtube.com/watch?v=GY6nHimEWpA&t=1s)
 
-Enjoy the game, and happy playing!
+Enjoy the game!
