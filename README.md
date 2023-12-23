@@ -31,6 +31,6 @@ With the sound library in place, you’re all set!
 
 If you’d like to see the game in action before playing:
 
-- Check out this gameplay demo: [Platformer Game Demo on YouTube](https://www.youtube.com/watch?v=GY6nHimEWpA&t=1s)
+- Check out this gameplay demo: [Platformer Game Demo on YouTube](https://www.youtube.com/watch?v=NyL2scv_29g)
 
 Enjoy the game!
