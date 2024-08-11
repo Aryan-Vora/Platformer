@@ -3,7 +3,7 @@
 
 Before you can run the game, you need to set up your environment:
 
-- **Install Processing.js**: Make sure you have Processing.js installed on your system. https://processing.org/download
+- **Install Processing**: Make sure you have Processing installed on your system. https://processing.org/download
 - **Copy Game Folder**: Locate the `game` folder from the repository and copy it into the Processing directory on your computer.
 
 ## Opening the Game
